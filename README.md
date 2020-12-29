@@ -1,4 +1,4 @@
-### Mini [BayMax](https://disney.fandom.com/wiki/Baymax)
+## Mini [BayMax](https://disney.fandom.com/wiki/Baymax)
 
 <br>
 
