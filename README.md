@@ -1,4 +1,4 @@
-<h1 align="center"> Mini [BayMax](https://disney.fandom.com/wiki/Baymax) </h1>
+### Mini [BayMax](https://disney.fandom.com/wiki/Baymax)
 
 <br>
 
