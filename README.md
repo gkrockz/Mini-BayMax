@@ -4,4 +4,6 @@
 
 ## A Quick Snap Of The WebPage :
 
-![Snap](Img/Snap1.jpg) 
+<p align="center">
+<img src="Img/Snap1.png" alt="Snap"> 
+</p>
