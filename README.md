@@ -2,7 +2,7 @@
 
 <br>
 
-## ➡ A Quick Snap Of The WebPage :
+## 💠 Snapshot of the webpage :
 
 <p align="center">
 <img src="Img/Snap.png" alt="Snapshot Of WebPage" width="80%"> 
