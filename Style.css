@@ -46,6 +46,7 @@ h1
 .head:hover {
 	width: 300px;
     transition: 1s ease-in-out;
+	cursor: grab;
 }
 
 .upper_body { 
@@ -86,6 +87,7 @@ h1
 {	
 	width:250px;
 	transition: 1.5s ease-in-out;
+	cursor: grab;
 }
 
 .left_leg, .right_leg { 
@@ -105,6 +107,7 @@ h1
     -o-transform: rotate(20deg);
     -ms-transform: rotate(20deg);
     transform: rotate(20deg);
+	cursor: grab;
 }
 .right_arm:hover 
 {
@@ -113,6 +116,7 @@ h1
     -o-transform: rotate(-20deg);
     -ms-transform: rotate(-20deg);
     transform: rotate(-20deg);
+	cursor: grab;
 }
 .left_leg:hover 
 {
@@ -121,6 +125,7 @@ h1
     -o-transform: rotate(20deg);
     -ms-transform: rotate(20deg);
     transform: rotate(20deg);
+	cursor: grab;
 }
 
 .right_leg:hover 
@@ -129,6 +134,7 @@ h1
     -moz-transform: rotate(-20deg);
     -o-transform: rotate(-20deg);
     -ms-transform: rotate(-20deg);
+	cursor: grab;
     transform: rotate(-20deg);
 }
 
